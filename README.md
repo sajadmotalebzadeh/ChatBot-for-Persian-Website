@@ -10,7 +10,7 @@ If the document is **tabular (CSV/Excel)**, the chatbot can even **generate and 
 ---
  Features
 
-- � **Supports multiple file formats**: PDF, DOCX, TXT, JSON, CSV, Excel.
+-  **Supports multiple file formats**: PDF, DOCX, TXT, JSON, CSV, Excel.
 -  **Retrieval-Augmented Generation**: finds the most relevant context from your documents.
 -  **Persian-first chatbot** (answers in Persian, English fallback if needed).
 -  **Smart data analysis**: auto-generates `pandas` code for tabular datasets.
